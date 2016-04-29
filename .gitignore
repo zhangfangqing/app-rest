@@ -1,0 +1,12 @@
+
+# Eclipse
+.classpath
+.project
+.gitingore
+.settings/
+.metadata/
+/bin/
+
+/target/
+/node_modules/
+.//node_modules/
